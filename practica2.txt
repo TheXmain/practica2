@@ -1,1 +1,3 @@
 este archivo fue creado para la practica numero 2
+
+vamos paracticar la creacion de un repositorio remoto para unirlo con un repositorio local
